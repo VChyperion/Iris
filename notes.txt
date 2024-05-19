@@ -1,3 +1,5 @@
+# Notes on what happens in the project and desc of functions and stuff. Not finished because i got too lazy lol.
+
 1) read.head - shows the top 5 rows
 
 2) read.shape - We see that the dataframe has (not including bound/id) 5 columns and 150 rows
